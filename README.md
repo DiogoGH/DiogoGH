@@ -20,28 +20,28 @@ Gosto de criar soluções visuais e funcionais, juntando programação com criat
 
 ### Linguagens
 
-Java
-C
-C++
-Pyton
-Kotlin
+- Java
+- C
+- C++
+- Pyton
+- Kotlin
 
 ### Web Development
 
-html
-css
+- html
+- css
 
 ### Ferramentas
 
-Godot
-Unity
-VSCode
-Pycharm
-Photoshop
-Ligtroom
-Netbens
-Android Studio
-Github
+- Godot
+- Unity
+- VSCode
+- Pycharm
+- Photoshop
+- Ligtroom
+- Netbens
+- Android Studio
+- Github
 
 ---
 
